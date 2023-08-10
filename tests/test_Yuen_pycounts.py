@@ -1,6 +1,6 @@
-from Yuen_pycounts.Yuen_pycounts import count_words
+from src.Yuen_pycounts.Yuen_pycounts import count_words
 from collections import Counter
-from Yuen_pycounts.plotting import plot_words
+from src.Yuen_pycounts.plotting import plot_words
 import matplotlib
 import pytest
 # from Yuen_pycounts.datasets import get_flatland
