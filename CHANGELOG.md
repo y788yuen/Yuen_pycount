@@ -14,8 +14,8 @@
 
 ### Tests
 
-- Added new tests to all package modules in test_Yuen_pycounts.py
+- Added new tests to all package modules in test_yuenpycounts.py
 
 ## v0.1.0 (07/08/2023)
 
-- First release of `Yuen_pycounts`!
+- First release of `yuenpycounts`!

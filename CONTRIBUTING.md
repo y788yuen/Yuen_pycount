@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `Yuen_pycounts` for local development.
+Ready to contribute? Here's how to set up `yuenpycounts` for local development.
 
-1. Download a copy of `Yuen_pycounts` locally.
-2. Install `Yuen_pycounts` using `poetry`:
+1. Download a copy of `yuenpycounts` locally.
+2. Install `yuenpycounts` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `Yuen_pycounts` project is released with a
+Please note that the `yuenpycounts` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

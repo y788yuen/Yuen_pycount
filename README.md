@@ -1,11 +1,11 @@
-# Yuen_pycounts
+# yuenpycounts
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install Yuen_pycounts
+$ pip install yuenpycounts
 ```
 
 ## Usage
@@ -18,10 +18,10 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`Yuen_pycounts` was created by Tomas Beuzen. It is licensed under the terms of the MIT license.
+`yuenpycounts` was created by Tomas Beuzen. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`Yuen_pycounts` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`yuenpycounts` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
-# Yuen_pycountsß
+# yuenpycountsß

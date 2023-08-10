@@ -19,8 +19,8 @@ def plot_words(word_counts, n=10):
 
     # Examples
     # --------
-    # >>> from Yuen_pycounts.Yuen_pycounts import count_words
-    # >>> from Yuen_pycounts.plotting import plot_words
+    # >>> from yuenpycounts.yuenpycounts import count_words
+    # >>> from yuenpycounts.plotting import plot_words
     # >>> counts = count_words("text.txt")
     # >>> plot_words(counts)
     if not isinstance(word_counts, Counter):

@@ -5,7 +5,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 # -- Project information -----------------------------------------------------
 
-project = u"Yuen_pycounts"
+project = u"yuenpycounts"
 copyright = u"2023, Tomas Beuzen"
 author = u"Tomas Beuzen"
 

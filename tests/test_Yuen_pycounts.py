@@ -1,9 +1,9 @@
-from Yuen_pycounts.Yuen_pycounts import count_words
+from yuenpycounts.plotting import plot_words
+from yuenpycounts.yuenpycounts import count_words
 from collections import Counter
-from Yuen_pycounts.plotting import plot_words
 import matplotlib
 import pytest
-# from Yuen_pycounts.datasets import get_flatland
+# from yuenpycounts.datasets import get_flatland
 
 @pytest.fixture
 def einstein_counts():
