@@ -1,21 +1,17 @@
-# Changelog
+# CHANGELOG
 
-<!--next-version-placeholder-->
 
-## v0.2.0 (10/09/2021)
 
-### Feature
+## v0.0.0 (2023-08-10)
 
-- Added new datasets modules to load example data
+### Unknown
 
-### Fix
+* new version ([`6a63ca9`](https://github.com/y788yuen/Yuen_pycount/commit/6a63ca928b22e435ffc1ba8779c4a3f995f0148b))
 
-- Check type of argument passed to `plotting.plot_words()`
+* new 4 ([`2756f7a`](https://github.com/y788yuen/Yuen_pycount/commit/2756f7a97e0656fd6da2c3f56ba7e5e6feb3840c))
 
-### Tests
+* new 3 ([`660ecad`](https://github.com/y788yuen/Yuen_pycount/commit/660ecaddfc151f7b99f6ecee259199f5b9506267))
 
-- Added new tests to all package modules in test_yuenpycounts.py
+* new ([`2ef2047`](https://github.com/y788yuen/Yuen_pycount/commit/2ef204708d2d98c622257fc4dfa0426d6fc6d9d9))
 
-## v0.1.0 (07/08/2023)
-
-- First release of `yuenpycounts`!
+* first commit ([`d26e91b`](https://github.com/y788yuen/Yuen_pycount/commit/d26e91bdbfecaf26a8152211da4ae16d56f54acd))
