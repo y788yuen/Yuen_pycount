@@ -59,6 +59,10 @@ jobs:
       - name: Install poetry
         uses: snok/install-poetry@v1
 
+      # install twine for upload package to Nexus
+      - name: Install twine
+        uses: pip install twine
+
       - name: Install package
         run: poetry install
       
@@ -96,3 +100,10 @@ jobs:
         with:
           user: __token__
           password: ${{ secrets.PYPI_API_TOKEN }}
+
+      # - name: Config Nexus
+      #   run: 
+        
+      - name: Upload package to Nexus
+        run: twine upload -r nexus dist/*
+
