@@ -61,7 +61,7 @@ jobs:
 
       # install twine for upload package to Nexus
       - name: Install twine
-        uses: pip install twine
+        run: pip install twine
 
       - name: Install package
         run: poetry install
