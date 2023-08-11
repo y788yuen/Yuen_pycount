@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "yuen-pycounts"
+name = "yuenpycounts"
 version = "0.1.3"
 description = "Calculate word counts in a text file!"
 authors = ["Tomas Beuzen"]
