@@ -71,7 +71,7 @@ jobs:
             git config user.email github-actions@github.com
             poetry run semantic-release publish
       
-      - name: Install package
+      - name: Build package
         run: poetry build
 
       - name: Publish to TestPyPI
