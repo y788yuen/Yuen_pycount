@@ -104,7 +104,7 @@ jobs:
       # - name: Config Nexus
       #   run: 
         
-      # - name: Upload package to Nexus
-      #   run: twine upload -r nexus dist/*
+      - name: Upload package to Nexus
+        run: twine upload -r nexus dist/*
 
       #
