@@ -1,10 +1,10 @@
 # yuenpycounts
 
-`yuenpycounts` is API to calculate word counts in a text file!
+`yuenpycounts` is a API to calculate word counts in a text file!
 
 ## Installation
 
-Step1: Open the Mac terminal enter the command to get PIP
+Step1: Open the Mac terminal enter the command to get `PIP`
 
 ```bash
 $ python3 get-pip.py
