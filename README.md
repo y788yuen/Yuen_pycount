@@ -26,7 +26,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`yuenpycounts` was created by Tomas Beuzen. It is licensed under the terms of the MIT license.
+`yuenpycounts` was created by Yuen Yip Man. It is licensed under the terms of the MIT license.
 
 ## Credits
 
