@@ -4,6 +4,14 @@
 
 ## Installation
 
+Open the Mac terminal enter the command to get PIP
+
+```bash
+$ python3 get-pip.py
+```
+
+install `yuenpycounts` package
+
 ```bash
 $ pip install yuenpycounts
 ```
