@@ -1,6 +1,6 @@
 # yuenpycounts
 
-Calculate word counts in a text file!
+`yuenpycounts` is API to calculate word counts in a text file!
 
 ## Installation
 
@@ -10,7 +10,7 @@ $ pip install yuenpycounts
 
 ## Usage
 
-- TODO
+- pip install the package, import `yuenpycounts` package and then call `count_words()` function or `plot_words()` function.
 
 ## Contributing
 
